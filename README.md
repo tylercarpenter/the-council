@@ -1,4 +1,6 @@
-# Jedi Council 🛡️
+# The Council 🛡️
+
+<img width="1200" height="675" alt="image" src="https://github.com/user-attachments/assets/2b36013c-f577-448f-b32c-8349b412bc11" />
 
 A **human-in-the-loop multi-agent system for [Claude Code](https://claude.com/claude-code)**,
 built entirely on native `.claude/` primitives — no framework, no Python, no
