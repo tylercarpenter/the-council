@@ -1,4 +1,4 @@
-# The Council 🛡️
+# The Council
 
 **NOTE:** These are my personal sub-agents and workflows for personal and professional software development. I'm consistently fine-tuning and modifying this system and it not yet a proven implementation. That being said, it's getting better as time goes on and is quite fun to tweak!
 
@@ -39,13 +39,11 @@ Awaiting your command, Master. (y / redirect / abort)
 
 ## Why this exists
 
-There are hundreds of multi-agent repos. Most are either framework demos that make
-you learn the plumbing before you get value, or fully autonomous systems that act
-without asking — black boxes with a README.
+The Council was assembled to build an agentic framework that works for me.
 
-This is neither. **Human gates are a first-class architectural primitive here, not an
-afterthought.** You get a mission brief and approve before anything runs. That's what
-makes it usable for real work instead of just a demo.
+The goal is to increase productivity by allowing agents take the reigns 
+on doing trivial work, while keeping me in the loop for difficult technical 
+and design decisions. 
 
 ## The council
 
