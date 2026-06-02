@@ -1,0 +1,10 @@
+# OS / editor cruft
+.DS_Store
+*.swp
+.idea/
+.vscode/
+
+# Local Claude session state (don't publish your own runs)
+.claude/settings.local.json
+.claude/projects/
+.claude/todos/
