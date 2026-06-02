@@ -69,8 +69,8 @@ files; the Diplomat cannot send without an approved command.
 ## Install
 
 ```bash
-git clone https://github.com/tylercarpenter/jedi-council
-cd jedi-council
+git clone https://github.com/tylercarpenter/the-council
+cd the-council
 make install        # installs to ~/.claude by default
 ```
 
@@ -128,7 +128,7 @@ effort before switching models — see the escalation ladder in `SKILL.md`.
 ## How it's structured
 
 ```
-jedi-council/
+the-council/
 ├── CLAUDE.md                  always-on ambient context (lean, template)
 ├── CONTEXT.md                 design rationale + open work
 ├── workflows/                 ready-to-run example missions

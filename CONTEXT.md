@@ -100,7 +100,7 @@ then productize the patterns that keep recurring.
 ## File map
 
 ```
-jedi-council/
+the-council/
 ├── README.md                          public-facing docs
 ├── Makefile                           install / uninstall / check / preview
 ├── LICENSE                            MIT
